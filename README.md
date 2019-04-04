@@ -9,7 +9,7 @@ The Monty Hall problem is a brain teaser, in the form of a probability puzzle, l
 Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice?
 
 
-![visual demo](https://commons.wikimedia.org/wiki/File:Monty_open_door.svg#/media/File:Monty_open_door.svg)
+![visual demo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Monty_open_door.svg)
 
 
 the right thing to do would be to switch. The reason for the same is that we should maximise the probability of success and the two probabilities are calculated in the .ipynb file.
